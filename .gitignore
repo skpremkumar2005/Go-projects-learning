@@ -1,0 +1,9 @@
+# Global ignore rules
+**/bin/
+**/vendor/
+*.log
+*.exe
+*.out
+*.test
+*.swp
+.DS_Store
