@@ -6,4 +6,5 @@
 *.out
 *.test
 *.swp
+*.env
 .DS_Store
